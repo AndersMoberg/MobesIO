@@ -1,9 +1,8 @@
 # MobesIO
 Collection of scripts I've developed overtime for personal use.
-It is meant to be install and linked up through your global Node installation.
 
-⚠ This code isn't super clean.. but it works for my purposes, and is organized to a decent level. 
-⚠ In certain cases, some constants are used that are in my native tongue.
+⚠ This code isn't super clean.. but it works for my purposes, and is organized to a decent level.  
+⚠ There are some constants (ergo, names in my native langauge) and expectations, especially regards to support for Notion .csv's. 
 
 ## Installation and usage
 Clone this repo and run "npm install", it will automatically run "npm run build" and "npm link".
