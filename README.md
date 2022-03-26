@@ -2,6 +2,7 @@
 Collection of scripts I've developed overtime for personal use.
 It is meant to be install and linked up through your global Node installation.
 If you clone this repo and run "npm install", it will automatically run "npm run build" and "npm link".
+Use the command "io", to get a command-line help text.
 
 It allows you to select an input and a output mechanism.
 
