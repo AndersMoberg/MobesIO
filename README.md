@@ -1,9 +1,14 @@
 # MobesIO
 Collection of scripts I've developed overtime for personal use.
 It is meant to be install and linked up through your global Node installation.
-If you clone this repo and run "npm install", it will automatically run "npm run build" and "npm link".
-Use the command "io", to get a command-line help text.
 
+⚠ This code isn't super clean.. but it works for my purposes, and is organized to a decent level. 
+
+## Installation and usage
+Clone this repo and run "npm install", it will automatically run "npm run build" and "npm link".
+Use the command "io" to get a command-line help text.
+
+## Explanation
 It allows you to select an input and a output mechanism.
 
 Inputs can be:
