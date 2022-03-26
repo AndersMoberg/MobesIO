@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "target": "ES2018",
+        "moduleResolution": "node",
+        "module": "CommonJS",
+        "outDir": "bin",
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+    },
+    "include": ["src/**/*","index.ts"],
+}
